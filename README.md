@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently looking for a Job in Data Analysis.
+- 🔭 I’m looking for a Job in Data Analysis as a Product Analyst.
 - 🌱 I’m currently learning Data Analytics at Yandex.Practicum 
-- 📫 How to reach me: telegram / nadyakonst
+- 📫 How to reach me: (telegram) nadyakonst 
 
 
 ### :hammer_and_wrench: Languages and Tools :
