@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m looking for a Job in Data Analysis as a Product Analyst.
-- 🌱 I’m currently learning Data Analytics at Yandex.Practicum 
+- 🔭 На моей странице собраны примеры работ по анализу данных 
+в рамках учёбы на курсе Яндекс.Практикум 
+и мои собственные проекты по анализу.
+ 
 - 📫 How to reach me: (telegram) nadyakonst 
 
 
